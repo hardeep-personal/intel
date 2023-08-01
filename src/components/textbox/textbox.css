@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Playball&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Dancing+Script&family=Playball&display=swap');
+  .outerBox {
+    padding: 2rem 4rem;
+  }
+  .titleHeading {
+    font-family: "Acme", "Work Sans", sans-serif;
+    font-size: xx-large;
+    font-family: 'Acme', sans-serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Playball', cursive;
+  }
+  .paragraphwriting {
+    font-family: 'Dancing Script', cursive;
+font-family: 'Playball', cursive;
+    font-family: "Playball", cursive;
+    font-weight: normal;
+    font-size: large;
+  }
+  .additionallinks {
+    font-weight: bolder;
+    color: rgb(238, 108, 108);
+    text-decoration: none;
+  }
+  
